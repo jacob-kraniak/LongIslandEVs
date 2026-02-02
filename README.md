@@ -19,7 +19,7 @@ Connect with the community across these platforms:
 - **X (Twitter)**: [@LongIslandEVs](https://x.com/LongIslandEVs) – Real-time updates, news, and discussions (366+ followers)
 - **Instagram**: [@longislandevs](https://www.instagram.com/longislandevs/) – Visual content, events, and promotions
 - **Facebook**: [Long Island EVs](https://www.facebook.com/LongIslandEVs) – Community engagement and local updates (Ronkonkoma, NY-based)
-- **Discord**: [Long Island EV Community](https://discord.com/invite/jERp8Ek6jc) – (WIP) server for charging tips, ride-and-drives, policy talks, and meetups. Looking for mods/contributors!
+- **Discord**: [Long Island EV Community](/main/long-island-ev-discord.md) – (WIP) server for charging tips, ride-and-drives, policy talks, and meetups. Looking for mods/contributors!
 
 - **Drive Electric Long Island (Affiliated Coalition)**:
   - Website: [driveelectriclongisland.org](https://driveelectriclongisland.org/)
