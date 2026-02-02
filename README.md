@@ -1,7 +1,6 @@
 # LongIslandEVs
 
-![LongIslandEVs Banner](https://via.placeholder.com/1200x400/00A86B/FFFFFF?text=Long+Island+EVs+-+Accelerating+Electric+Mobility)  
-<!-- Replace the placeholder URL above with your actual banner image (e.g., upload to repo or use Imgur/CDN) -->
+[![X Follow](https://img.shields.io/twitter/follow/LongIslandEVs?style=social)](https://x.com/LongIslandEVs)
 
 **Promoting Electric Vehicle Adoption on Long Island and Metro New York**
 
