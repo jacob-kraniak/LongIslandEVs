@@ -77,8 +77,5 @@ POC script fully functional locally: pulls AFDC data, filters recent Long Island
 - 2026-02-05: Timezone-aware date parsing fixed
 - 2026-02-05: RSS feed generation and Discord integration added
 
-## Recommendation for Repo Move
-Yes – progress sufficient for dedicated repo. Suggested name: long-island-ev-updates (slug: long-island-ev-updates). Move this MD file, the working Python script(s), and any future configs/schedule notes to new repo at https://github.com/jacob-kraniak/long-island-ev-updates.
-
 ## Supplementary Code / Text
-### Main Script: https://github.com/jacob-kraniak/LongIslandEVs/blob/main/AFDC_to_RSS_Discord.py
+# Main Script: https://github.com/jacob-kraniak/LongIslandEVs/blob/main/AFDC_to_RSS_Discord.py
